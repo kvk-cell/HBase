@@ -1,0 +1,8 @@
+#target文件夹下出jar包以外内容
+target/classes/*
+target/generated-sources/*
+target/maven-archiver/*
+target/maven-status/*
+
+.DS_Store
+.git/* 
